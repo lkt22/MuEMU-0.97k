@@ -1,4 +1,4 @@
-# kayito MuEmu 0.97k Full Package
+# MuEmu 0.97k Full Package
 
 ## - Emulator: MuEmu
 
